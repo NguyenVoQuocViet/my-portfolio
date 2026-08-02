@@ -42,6 +42,15 @@
       "image_url": "images/projects/baocaogiare.png",
       "download_url": "https://github.com/NguyenVoQuocViet/baocaogiare",
       "web_url": "https://baocaogiare.vercel.app/"
+    },
+    {
+      "title": "Meteor English",
+      "version": "latest",
+      "description": "Luyện từ vựng tiếng anh thông qua trò chơi gõ từ phá thiên thạch rơi.",
+      "tech_stack": "React 18, Vite 6, Tailwind CSS 4, Lucide React",
+      "image_url": "images/projects/meteorenglish.png",
+      "download_url": "https://github.com/NguyenVoQuocViet/meteor-english",
+      "web_url": "https://nguyenvoquocviet.github.io/meteor-english/"
     }
   ]
 }

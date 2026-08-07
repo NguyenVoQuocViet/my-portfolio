@@ -51,6 +51,15 @@
       "image_url": "images/projects/meteorenglish.png",
       "download_url": "https://github.com/NguyenVoQuocViet/meteor-english",
       "web_url": "https://nguyenvoquocviet.github.io/meteor-english/"
+    },
+    {
+      "title": "Embedded Helper",
+      "version": "latest",
+      "description": "Một website hỗ trợ lập trình viên về mảng lập trình nhúng, nối dây, linh kiện, board, ...",
+      "tech_stack": "React 19, Vite, Tailwind v4",
+      "image_url": "images/projects/embeddedhelper.png",
+      "download_url": "https://github.com/NguyenVoQuocViet/embbeded-dev-helper",
+      "web_url": "https://embeddedhelper.vercel.app/"
     }
   ]
 }

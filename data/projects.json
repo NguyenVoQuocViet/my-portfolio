@@ -60,6 +60,15 @@
       "image_url": "images/projects/embeddedhelper.png",
       "download_url": "https://github.com/NguyenVoQuocViet/embbeded-dev-helper",
       "web_url": "https://embeddedhelper.vercel.app/"
+    },
+    {
+      "title": "Must do task",
+      "version": "latest",
+      "description": "Workspace cá nhân cho dân code: to-do list, thói quen hằng ngày, Pomodoro, biểu đồ hoạt động và ghi chú nháp trên cùng một màn hình. Chạy hoàn toàn trên trình duyệt, không cần tài khoản hay server.v",
+      "tech_stack": "React 18, Vite 6, Tailwind CSS 4 ",
+      "image_url": "images/projects/mustdotask.png",
+      "download_url": "https://github.com/NguyenVoQuocViet/must-do-task-website",
+      "web_url": "https://nguyenvoquocviet.github.io/must-do-task-website/"
     }
   ]
 }

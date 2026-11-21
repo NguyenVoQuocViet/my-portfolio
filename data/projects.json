@@ -69,6 +69,15 @@
       "image_url": "images/projects/mustdotask.png",
       "download_url": "https://github.com/NguyenVoQuocViet/must-do-task-website",
       "web_url": "https://nguyenvoquocviet.github.io/must-do-task-website/"
+    },
+    {
+      "title": "Pirate Battle",
+      "version": "lastest",
+      "description": "Game lái thuyền hải tặc bắn nhau, có thể chơi đơn hoặc chơi online nhiều người.",
+      "tech_stack": "Vite, Three.js, Socket.io client, Node.js, Express, Socket.io",
+      "image_url": "images/projects/piratebattle.png",
+      "download_url": "https://github.com/NguyenVoQuocViet/pirate-battle",
+      "web_url": "https://piratebattle.pages.dev/"
     }
   ]
 }
